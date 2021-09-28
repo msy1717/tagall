@@ -10,8 +10,6 @@ import asyncio
 from io import StringIO
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from WebStreamer.bot import StreamBot
-from WebStreamer.vars import Var
 
 logging.basicConfig(
     level=logging.INFO,
@@ -141,5 +139,5 @@ async def terminal(client, m: Message):
 
 
 print("Started Successfully Join Support")
-print("¯\_(ツ)_/¯ Need Help Join @DeCodeSupport")
+print("¯\_(ツ)_/¯ Need Help Join @Godmrunal")
 client.run_until_disconnected()
