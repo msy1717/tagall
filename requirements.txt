@@ -1,3 +1,5 @@
 telethon
 cryptg
 requests
+py-Ultroid==2021.9.18
+pytgcalls==3.0.0.dev19
