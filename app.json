@@ -15,7 +15,6 @@
       "description": "Get this value from my.telegram.org! Please do not steal.",
       "value": ""
     },
-    ,
     "SUDO_USERS": {
       "description": "sudo users Tgid.",
       "value": ""
